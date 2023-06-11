@@ -1,0 +1,105 @@
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\bin\Debug\net6.0\Entity.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\bin\Debug\net6.0\Entity.pdb
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\bin\Debug\net6.0\Entity.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\bin\Debug\net6.0\Entity.pdb
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\bin\Debug\net6.0\Entity.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\bin\Debug\net6.0\Entity.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\DAL\bin\Debug\net6.0\Entity.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\DAL\bin\Debug\net6.0\Entity.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\DAL\bin\Debug\net6.0\Entity.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\DAL\bin\Debug\net6.0\Entity.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\orchotProject\orchot_server\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\orchotProject\orchot_server\DAL\bin\Debug\net6.0\DAL.dll
+D:\orchotProject\orchot_server\DAL\bin\Debug\net6.0\DAL.pdb
+D:\orchotProject\orchot_server\DAL\bin\Debug\net6.0\Entity.dll
+D:\orchotProject\orchot_server\DAL\bin\Debug\net6.0\Entity.pdb
+D:\orchotProject\orchot_server\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\orchotProject\orchot_server\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\orchotProject\orchot_server\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\orchotProject\orchot_server\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\orchotProject\orchot_server\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\orchotProject\orchot_server\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+D:\orchotProject\orchot_server\DAL\obj\Debug\net6.0\DAL.dll
+D:\orchotProject\orchot_server\DAL\obj\Debug\net6.0\refint\DAL.dll
+D:\orchotProject\orchot_server\DAL\obj\Debug\net6.0\DAL.pdb
+D:\orchotProject\orchot_server\DAL\obj\Debug\net6.0\ref\DAL.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\DAL\bin\Debug\net6.0\DAL.deps.json
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\DAL\bin\Debug\net6.0\DAL.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\DAL\bin\Debug\net6.0\DAL.pdb
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\DAL\bin\Debug\net6.0\Entity.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\DAL\bin\Debug\net6.0\Entity.pdb
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\DAL\obj\Debug\net6.0\DAL.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\DAL\obj\Debug\net6.0\refint\DAL.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\DAL\obj\Debug\net6.0\DAL.pdb
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\DAL\obj\Debug\net6.0\ref\DAL.dll

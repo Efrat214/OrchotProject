@@ -1,0 +1,247 @@
+<p-toast key="myKey1" [showTransitionOptions]="'0ms'" ></p-toast> 
+<div class="card">
+        <p-button icon="pi pi-plus" label="  הוסף משתמש " (click) = "addUser()"></p-button>
+        <p-table [value]="arrU" dataKey="id" editMode="row">
+            <ng-template pTemplate="header">
+                <tr >
+                    <th style="width:14%">פעיל</th>
+                    <th style="width:14%">מנהל</th>
+                    <th style="width:14%">סלולרי</th>
+                    <th style="width:14%">מחלקה</th>
+                    <th style="width:14%">כתובת מייל</th>
+                    <th style="width:14%">סיסמא</th>
+                    <th style="width:14%">שם משתמש</th>
+                    <th style="width:14%">שם עובד</th>
+                    <th style="width:14%"></th>
+                </tr>
+            </ng-template>
+           
+            <ng-template pTemplate="body" let-user let-editing="editing" let-ri="rowIndex">
+                
+                <tr [pEditableRow]="user">
+                    <td pEditableColumn>
+                        <p-cellEditor>
+                            <ng-template pTemplate="input">
+                                <p-checkbox [(ngModel)]="user.active"   [disabled]="!editing" [binary]="true"></p-checkbox>
+                            </ng-template>
+                            <ng-template pTemplate="output">
+                                {{user.active}}
+                            </ng-template>
+                        </p-cellEditor>
+                    </td>
+                    <td pEditableColumn>
+                        <p-cellEditor>
+                            <ng-template pTemplate="input" >
+                                <p-checkbox p [(ngModel)]="user.admin" [disabled]="!editing" [binary]="true"></p-checkbox>
+                            </ng-template>
+                            <ng-template pTemplate="output">
+                                {{user.admin}}
+                            </ng-template>
+                        </p-cellEditor>
+                    </td>
+                    <td pEditableColumn>
+                        <p-cellEditor>
+                            <ng-template pTemplate="input">
+                                <input pInputText type="text" [disabled]="!editing" [(ngModel)]="user.mobile">
+                            </ng-template>
+                            <ng-template pTemplate="output">
+                                {{user.mobile}}
+                            </ng-template>
+                        </p-cellEditor>
+                    </td>
+                    <td pEditableColumn>
+                        <p-cellEditor>
+                            <ng-template pTemplate="input">
+                                <p-dropdown [options]="departments" appendTo="body" [disabled]="!editing" [(ngModel)]="user.department" [style]="{'width':'100%'}" placeholder="~ בחר ~"></p-dropdown>
+                            </ng-template>
+                            <ng-template pTemplate="output">
+                                {{user.department}}
+                            </ng-template>
+                        </p-cellEditor>
+                    </td>
+                    <td pEditableColumn>
+                        <p-cellEditor>
+                            <ng-template pTemplate="input">
+                                <input pInputText type="text" [disabled]="!editing" [(ngModel)]="user.mailAddress">
+                            </ng-template>
+                            <ng-template pTemplate="output">
+                                {{user.mailAddress}}
+                            </ng-template>
+                        </p-cellEditor>
+                    </td>
+                    <td pEditableColumn>
+                        <p-cellEditor>
+                            <ng-template pTemplate="input" *ngIf="!editing">
+                            <div>
+                                <input pInputText type="text" [disabled]="!editing"  password="password" #password="ngModel" required [(ngModel)]="user.password"/>
+                                <div [hidden]="!password.invalid" class="alert alert-danger">שדה חובה </div>
+                            </div>
+                            </ng-template>
+                            <ng-template pTemplate="output">
+                                {{user.password}}
+                            </ng-template>
+                        </p-cellEditor>
+                    </td>
+                    <td pEditableColumn>
+                        <p-cellEditor>
+                            <ng-template pTemplate="input">
+                                <div>
+                                    <input pInputText type="text" [disabled]="!editing" id="name" username="username" #username="ngModel" required [(ngModel)]="user.userName"/>
+                                    <div [hidden]="!username.invalid" class="alert alert-danger">שדה חובה </div>
+                                </div>
+                            </ng-template>
+                            <ng-template pTemplate="output">
+                                {{user.userName}}
+                            </ng-template>
+                        </p-cellEditor>
+                    </td>
+                    <td pEditableColumn>
+                        <p-cellEditor>
+                            <ng-template pTemplate="input">
+                                <div>
+                                    <input pInputText type="text" [disabled]="!editing" id="name" name="name" #name="ngModel" required [(ngModel)]="user.fullName"/>
+                                    <div [hidden]="!name.invalid" class="alert alert-danger">שדה חובה </div>
+                                </div>
+                            </ng-template>
+                            <ng-template pTemplate="output">
+                                {{user.fullName}}
+                            </ng-template>
+                        </p-cellEditor>
+                    </td>
+
+                    <td style="text-align:center">
+                        <button *ngIf="!editing" pButton pRipple type="button"  pInitEditableRow icon="pi pi-pencil" (click)="onRowEditInit(user)" class="p-button-rounded p-button-text"></button>
+                        <button *ngIf="editing"  pButton pRipple  type="button"  pSaveEditableRow icon="pi pi-check" (click)="onRowEditSave(user,ri)" class="p-button-rounded p-button-text p-button-success p-mr-2"></button>
+                        <button *ngIf="editing"  pButton pRipple  type="button"  pCancelEditableRow icon="pi pi-times" (click)="onRowEditCancel(user,ri)" class="p-button-rounded p-button-text p-button-danger"></button>
+                        <button *ngIf="editing"  pButton pRipple  type="button"icon="pi pi-trash" pCancelEditableRow (click)="delete(user,ri)" class="p-button-rounded p-button-text p-button-danger"></button>
+                    </td>
+                </tr>
+            
+            </ng-template>
+    
+        </p-table>
+</div>
+               
+<!-- <p-toast key="myKey1" [showTransitionOptions]="'0ms'" ></p-toast> 
+<div class="card">
+        <p-button label="הוסף משתמש" (click) = "addUser()"></p-button>
+        <p-table [value]="arrU" dataKey="id" editMode="row">
+            <ng-template pTemplate="header">
+                <tr >
+                    <th dir="rtl" style="width:14%">פעיל</th>
+                    <th dir="rtl" style="width:14%">מנהל</th>
+                    <th dir="rtl" style="width:14%">סלולרי</th>
+                    <th dir="rtl" style="width:14%">מחלקה</th>
+                    <th dir="rtl" style="width:14%">כתובת מייל</th>
+                    <th dir="rtl" style="width:14%">סיסמא</th>
+                    <th dir="rtl" style="width:14%">שם משתמש</th>
+                    <th dir="rtl" style="width:14%">שם עובד</th>
+                    <th dir="rtl" style="width:14%"></th>
+                </tr>
+            </ng-template>
+           
+            <ng-template pTemplate="body" let-user let-editing="editing" let-ri="rowIndex">
+                
+                <tr [pEditableRow]="user">
+                    <td pEditableColumn>
+                        <p-cellEditor>
+                            <ng-template pTemplate="input">
+                                <p-checkbox [(ngModel)]="user.active"   [disabled]="!editing" [binary]="true"></p-checkbox>
+                            </ng-template>
+                            <ng-template pTemplate="output">
+                                {{user.active}}
+                            </ng-template>
+                        </p-cellEditor>
+                    </td>
+                    <td pEditableColumn>
+                        <p-cellEditor>
+                            <ng-template pTemplate="input" >
+                                <p-checkbox p [(ngModel)]="user.admin" [disabled]="!editing" [binary]="true"></p-checkbox>
+                            </ng-template>
+                            <ng-template pTemplate="output">
+                                {{user.admin}}
+                            </ng-template>
+                        </p-cellEditor>
+                    </td>
+                    <td pEditableColumn>
+                        <p-cellEditor>
+                            <ng-template pTemplate="input">
+                                <input pInputText dir="rtl" type="text" [disabled]="!editing" [(ngModel)]="user.mobile">
+                            </ng-template>
+                            <ng-template pTemplate="output">
+                                {{user.mobile}}
+                            </ng-template>
+                        </p-cellEditor>
+                    </td>
+                    <td pEditableColumn>
+                        <p-cellEditor>
+                            <ng-template pTemplate="input">
+                                <p-dropdown dir="rtl" [options]="departments" appendTo="body" [disabled]="!editing" [(ngModel)]="user.department" [style]="{'width':'100%'}" placeholder="~ בחר ~"></p-dropdown>
+                            </ng-template>
+                            <ng-template pTemplate="output">
+                                {{user.department}}
+                            </ng-template>
+                        </p-cellEditor>
+                    </td>
+                    <td pEditableColumn>
+                        <p-cellEditor>
+                            <ng-template pTemplate="input">
+                                <input pInputText dir="rtl" type="text" [disabled]="!editing" [(ngModel)]="user.mailAddress">
+                            </ng-template>
+                            <ng-template pTemplate="output">
+                                {{user.mailAddress}}
+                            </ng-template>
+                        </p-cellEditor>
+                    </td>
+                    <td pEditableColumn>
+                        <p-cellEditor>
+                            <ng-template pTemplate="input" *ngIf="!editing">
+                            <div>
+                                <input pInputText dir="rtl" type="text" [disabled]="!editing"  password="password" #password="ngModel" required [(ngModel)]="user.password"/>
+                                <div [hidden]="!password.invalid" class="alert alert-danger">שדה חובה </div>
+                            </div>
+                            </ng-template>
+                            <ng-template pTemplate="output">
+                                {{user.password}}
+                            </ng-template>
+                        </p-cellEditor>
+                    </td>
+                    <td pEditableColumn>
+                        <p-cellEditor>
+                            <ng-template pTemplate="input">
+                                <div>
+                                    <input dir="rtl" pInputText type="text" [disabled]="!editing" id="name" username="username" #username="ngModel" required [(ngModel)]="user.userName"/>
+                                    <div [hidden]="!username.invalid" class="alert alert-danger">שדה חובה </div>
+                                </div>
+                            </ng-template>
+                            <ng-template pTemplate="output">
+                                {{user.userName}}
+                            </ng-template>
+                        </p-cellEditor>
+                    </td>
+                    <td pEditableColumn>
+                        <p-cellEditor>
+                            <ng-template pTemplate="input">
+                                <div>
+                                    <input pInputText dir="rtl" type="text" [disabled]="!editing" id="name" name="name" #name="ngModel" required [(ngModel)]="user.fullName"/>
+                                    <div [hidden]="!name.invalid" class="alert alert-danger">שדה חובה </div>
+                                </div>
+                            </ng-template>
+                            <ng-template pTemplate="output">
+                                {{user.fullName}}
+                            </ng-template>
+                        </p-cellEditor>
+                    </td>
+
+                    <td style="text-align:center">
+                        <button *ngIf="!editing" pButton pRipple type="button"  pInitEditableRow icon="pi pi-pencil" (click)="onRowEditInit(user)" class="p-button-rounded p-button-text"></button>
+                        <button *ngIf="editing"  pButton pRipple  type="button"  pSaveEditableRow icon="pi pi-check" (click)="onRowEditSave(user,ri)" class="p-button-rounded p-button-text p-button-success p-mr-2"></button>
+                        <button *ngIf="editing"  pButton pRipple  type="button"  pCancelEditableRow icon="pi pi-times" (click)="onRowEditCancel(user,ri)" class="p-button-rounded p-button-text p-button-danger"></button>
+                        <button *ngIf="editing"  pButton pRipple  type="button"icon="pi pi-trash" pCancelEditableRow (click)="delete(user,ri)" class="p-button-rounded p-button-text p-button-danger"></button>
+                    </td>
+                </tr>
+            
+            </ng-template>
+    
+        </p-table>
+</div> -->

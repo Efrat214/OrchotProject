@@ -1,0 +1,131 @@
+<p-toast key="myKey1" [showTransitionOptions]="'0ms'" >
+</p-toast> 
+ <p-table #dt1 [value]="arrD" dataKey="id" [rows]="10" [showCurrentPageReport]="true"
+ [rowsPerPageOptions]="[10,25,50]"  styleClass="p-datatable-customers p-datatable-gridlines"
+ [paginator]="true" currentPageReportTemplate="Showing {first} to {last} of {totalRecords} entries"
+ [globalFilterFields]="['createBy','createDate','organization','businessUnit','department','docType','docLink','deleted']">
+  <!-- <ng-template pTemplate="caption">
+     <div class="p-d-flex">
+         <span class="p-input-icon-left p-ml-auto">
+             <i class="pi pi-search">
+                 <input pInputText #textInput type="text" (input)="dt1.filterGlobal(textInput.value, 'contains')" placeholder="Filter" />
+             </i>
+         </span>
+     </div>
+ </ng-template> -->
+ <ng-template pTemplate="caption">
+     <div class="p-d-flex">
+         <span class="p-input-icon-left p-ml-auto">
+             <i class="pi pi-search"></i>
+             <input pInputText #textInput type="text" (input)="dt1.filterGlobal(textInput.value, 'contains')" placeholder="סינון" />
+         </span>
+     </div>
+ </ng-template>
+ 
+<ng-template pTemplate="header" let-document>
+ <tr>
+    <th style="direction: rtl;">
+        מחיקה
+    </th>
+
+    <th>
+        לינק
+    </th>
+
+         <th>
+             <div class="p-d-flex p-jc-between p-ai-center">
+                <p-columnFilter type="text" field="docType" display="menu" ></p-columnFilter>סוג מסמך
+             </div>
+         </th>
+         <th>
+            <div class="p-d-flex p-jc-between p-ai-center">
+                <p-columnFilter type="text" field="department" display="menu" ></p-columnFilter>מחלקה
+            </div>
+        </th>
+         
+         <th>
+            <div class="p-d-flex p-jc-between p-ai-center">
+                <p-columnFilter type="text" field="businessUnit" display="menu"></p-columnFilter>מוסד
+            </div>
+        </th>
+         <th>
+            <div class="p-d-flex p-jc-between p-ai-center">
+                <p-columnFilter type="text" field="organization" display="menu"></p-columnFilter>ארגון
+            </div>
+        </th>
+         <th>
+            <div class="p-d-flex p-jc-between p-ai-center">
+                <p-columnFilter type="date" field="createDate" display="menu"></p-columnFilter>
+                תאריך יצירה
+            </div>
+        </th>
+         <th>
+            <div class="p-d-flex p-jc-between p-ai-center">
+                <p-columnFilter type="text" field="createBy" display="menu">
+                </p-columnFilter>
+                יוצר מסמך
+            </div>
+        </th>
+
+     </tr>
+ </ng-template>
+     
+ <ng-template pTemplate="body" let-document>
+     <tr>
+        <td>
+            <!-- {{document.deleted}} -->
+    
+<div class="card flex justify-content-center">
+    <p-toast key="confirm" (onClose)="onReject()">
+        <ng-template let-message pTemplate="message">
+            <div class="flex flex-column" style="flex: 1">
+                <div class="flexitems" style="display: flex; justify-content: left; align-items: center;">
+                    <i class="pi pi-exclamation-triangle" style="font-size: 2rem"></i>
+                    <h4>  {{message.summary}}</h4>
+                </div>
+                <div style="display:flex; flex-direction: row-reverse; justify-content: left;">
+                <p>{{message.detail}}</p>
+                <div style="display: inline-flex;" dir="rtl">  
+                    <button type="button" pButton (click)="onConfirm(document)" label="אישור" class="btn p-button-text p-button-success"></button>  
+                    <button type="button" pButton (click)="onReject()" label="ביטול" class="btn p-button-text p-button-danger"></button>
+                </div></div>
+            </div>
+        </ng-template>
+    </p-toast>
+    <button type="button" pButton pRipple (click)="showConfirm()" type="button" icon="pi pi-trash" class="p-button-rounded p-button-text p-button-danger"></button>
+</div>
+            <!-- <button  pButton pRipple  type="button" icon="pi pi-trash" (click)="delete(document)" class="p-button-rounded p-button-text p-button-danger"></button> -->
+        </td>
+        <td> 
+            <a href={{document.docLink}} title={{document.docLink}}>{{document.docLink? document.docLink.substring(0, 35)+"...":""}}</a>
+          
+        </td>
+        <td>
+            {{document.docType}}
+        </td>
+        <td>
+            {{document.department}}
+        </td>
+        <td>
+            {{document.businessUnit}}
+        </td>
+        <td>
+            {{document.organization}}
+        </td>
+         <td>
+            <!-- <p-calendar dateFormat="DD, dd/mm/yy" [(ngModel)]="calendarVal"></p-calendar> -->
+             {{document.createDate | date:"dd/MM/yyyy" }}
+             <!-- {{this.currentDate}} -->
+         </td>    
+         <td>
+            {{document.createBy}}
+        </td>
+     </tr>
+ </ng-template>
+     
+ <ng-template pTemplate="emptymessage">
+     <tr>
+         <td colspan="7">No customers found.</td>
+     </tr>
+ </ng-template>	
+</p-table>   

@@ -1,0 +1,119 @@
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\bin\Debug\net6.0\DAL.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\bin\Debug\net6.0\Entity.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\bin\Debug\net6.0\Entity.pdb
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\bin\Debug\net6.0\DAL.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\bin\Debug\net6.0\Entity.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\bin\Debug\net6.0\Entity.pdb
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\bin\Debug\net6.0\DAL.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\bin\Debug\net6.0\Entity.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\bin\Debug\net6.0\Entity.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\BLL\bin\Debug\net6.0\DAL.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\BLL\bin\Debug\net6.0\Entity.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\BLL\bin\Debug\net6.0\Entity.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\BLL\bin\Debug\net6.0\DAL.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\BLL\bin\Debug\net6.0\Entity.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\BLL\bin\Debug\net6.0\Entity.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\BLL\obj\Debug\net6.0\ref\BLL.dll
+D:\orchotProject\orchot_server\BLL\bin\Debug\net6.0\BLL.deps.json
+D:\orchotProject\orchot_server\BLL\bin\Debug\net6.0\BLL.dll
+D:\orchotProject\orchot_server\BLL\bin\Debug\net6.0\BLL.pdb
+D:\orchotProject\orchot_server\BLL\bin\Debug\net6.0\DAL.dll
+D:\orchotProject\orchot_server\BLL\bin\Debug\net6.0\Entity.dll
+D:\orchotProject\orchot_server\BLL\bin\Debug\net6.0\DAL.pdb
+D:\orchotProject\orchot_server\BLL\bin\Debug\net6.0\Entity.pdb
+D:\orchotProject\orchot_server\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+D:\orchotProject\orchot_server\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\orchotProject\orchot_server\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+D:\orchotProject\orchot_server\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+D:\orchotProject\orchot_server\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+D:\orchotProject\orchot_server\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+D:\orchotProject\orchot_server\BLL\obj\Debug\net6.0\BLL.dll
+D:\orchotProject\orchot_server\BLL\obj\Debug\net6.0\refint\BLL.dll
+D:\orchotProject\orchot_server\BLL\obj\Debug\net6.0\BLL.pdb
+D:\orchotProject\orchot_server\BLL\obj\Debug\net6.0\ref\BLL.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\BLL\bin\Debug\net6.0\BLL.deps.json
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\BLL\bin\Debug\net6.0\BLL.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\BLL\bin\Debug\net6.0\BLL.pdb
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\BLL\bin\Debug\net6.0\DAL.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\BLL\bin\Debug\net6.0\Entity.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\BLL\bin\Debug\net6.0\DAL.pdb
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\BLL\bin\Debug\net6.0\Entity.pdb
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\BLL\obj\Debug\net6.0\BLL.csproj.AssemblyReference.cache
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\BLL\obj\Debug\net6.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\BLL\obj\Debug\net6.0\BLL.AssemblyInfoInputs.cache
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\BLL\obj\Debug\net6.0\BLL.AssemblyInfo.cs
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\BLL\obj\Debug\net6.0\BLL.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\BLL\obj\Debug\net6.0\BLL.csproj.CopyComplete
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\BLL\obj\Debug\net6.0\BLL.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\BLL\obj\Debug\net6.0\refint\BLL.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\BLL\obj\Debug\net6.0\BLL.pdb
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\BLL\obj\Debug\net6.0\ref\BLL.dll

@@ -1,0 +1,112 @@
+M:\orchotPro\Entity\bin\Debug\net6.0\Entity.deps.json
+M:\orchotPro\Entity\bin\Debug\net6.0\Entity.runtimeconfig.json
+M:\orchotPro\Entity\bin\Debug\net6.0\Entity.dll
+M:\orchotPro\Entity\bin\Debug\net6.0\Entity.pdb
+M:\orchotPro\Entity\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+M:\orchotPro\Entity\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+M:\orchotPro\Entity\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+M:\orchotPro\Entity\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+M:\orchotPro\Entity\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+M:\orchotPro\Entity\obj\Debug\net6.0\Entity.dll
+M:\orchotPro\Entity\obj\Debug\net6.0\refint\Entity.dll
+M:\orchotPro\Entity\obj\Debug\net6.0\Entity.pdb
+M:\orchotPro\Entity\obj\Debug\net6.0\Entity.genruntimeconfig.cache
+M:\orchotPro\Entity\obj\Debug\net6.0\ref\Entity.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\bin\Debug\net6.0\Entity.deps.json
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\bin\Debug\net6.0\Entity.runtimeconfig.json
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\bin\Debug\net6.0\Entity.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\bin\Debug\net6.0\Entity.pdb
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\obj\Debug\net6.0\Entity.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\obj\Debug\net6.0\refint\Entity.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\obj\Debug\net6.0\Entity.pdb
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\obj\Debug\net6.0\Entity.genruntimeconfig.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\obj\Debug\net6.0\ref\Entity.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\bin\Debug\net6.0\Entity.deps.json
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\bin\Debug\net6.0\Entity.runtimeconfig.json
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\bin\Debug\net6.0\Entity.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\bin\Debug\net6.0\Entity.pdb
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\obj\Debug\net6.0\Entity.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\obj\Debug\net6.0\refint\Entity.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\obj\Debug\net6.0\Entity.pdb
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\obj\Debug\net6.0\Entity.genruntimeconfig.cache
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\obj\Debug\net6.0\ref\Entity.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\bin\Debug\net6.0\Entity.deps.json
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\bin\Debug\net6.0\Entity.runtimeconfig.json
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\bin\Debug\net6.0\Entity.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\bin\Debug\net6.0\Entity.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\obj\Debug\net6.0\Entity.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\obj\Debug\net6.0\refint\Entity.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\obj\Debug\net6.0\Entity.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\obj\Debug\net6.0\Entity.genruntimeconfig.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\Entity\obj\Debug\net6.0\ref\Entity.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\Entity\bin\Debug\net6.0\Entity.deps.json
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\Entity\bin\Debug\net6.0\Entity.runtimeconfig.json
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\Entity\bin\Debug\net6.0\Entity.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\Entity\bin\Debug\net6.0\Entity.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\Entity\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\Entity\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\Entity\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\Entity\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\Entity\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\Entity\obj\Debug\net6.0\Entity.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\Entity\obj\Debug\net6.0\refint\Entity.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\Entity\obj\Debug\net6.0\Entity.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\Entity\obj\Debug\net6.0\Entity.genruntimeconfig.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\Entity\obj\Debug\net6.0\ref\Entity.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\Entity\bin\Debug\net6.0\Entity.deps.json
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\Entity\bin\Debug\net6.0\Entity.runtimeconfig.json
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\Entity\bin\Debug\net6.0\Entity.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\Entity\bin\Debug\net6.0\Entity.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\Entity\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\Entity\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\Entity\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\Entity\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\Entity\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\Entity\obj\Debug\net6.0\Entity.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\Entity\obj\Debug\net6.0\refint\Entity.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\Entity\obj\Debug\net6.0\Entity.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\Entity\obj\Debug\net6.0\Entity.genruntimeconfig.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\Entity\obj\Debug\net6.0\ref\Entity.dll
+D:\orchotProject\orchot_server\Entity\bin\Debug\net6.0\Entity.deps.json
+D:\orchotProject\orchot_server\Entity\bin\Debug\net6.0\Entity.runtimeconfig.json
+D:\orchotProject\orchot_server\Entity\bin\Debug\net6.0\Entity.dll
+D:\orchotProject\orchot_server\Entity\bin\Debug\net6.0\Entity.pdb
+D:\orchotProject\orchot_server\Entity\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+D:\orchotProject\orchot_server\Entity\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\orchotProject\orchot_server\Entity\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+D:\orchotProject\orchot_server\Entity\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+D:\orchotProject\orchot_server\Entity\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+D:\orchotProject\orchot_server\Entity\obj\Debug\net6.0\Entity.dll
+D:\orchotProject\orchot_server\Entity\obj\Debug\net6.0\refint\Entity.dll
+D:\orchotProject\orchot_server\Entity\obj\Debug\net6.0\Entity.pdb
+D:\orchotProject\orchot_server\Entity\obj\Debug\net6.0\Entity.genruntimeconfig.cache
+D:\orchotProject\orchot_server\Entity\obj\Debug\net6.0\ref\Entity.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\Entity\bin\Debug\net6.0\Entity.deps.json
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\Entity\bin\Debug\net6.0\Entity.runtimeconfig.json
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\Entity\bin\Debug\net6.0\Entity.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\Entity\bin\Debug\net6.0\Entity.pdb
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\Entity\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\Entity\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\Entity\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\Entity\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\Entity\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\Entity\obj\Debug\net6.0\Entity.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\Entity\obj\Debug\net6.0\refint\Entity.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\Entity\obj\Debug\net6.0\Entity.pdb
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\Entity\obj\Debug\net6.0\Entity.genruntimeconfig.cache
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\Entity\obj\Debug\net6.0\ref\Entity.dll

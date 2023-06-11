@@ -1,0 +1,63 @@
+.tbl{
+    width: 100%;
+    height: 100%;
+    border-collapse: collapse;
+    font-family: 'Segoe UI';
+    font-size: 16.5px;
+}
+
+.tbl.tr, td{
+    width: 25%;
+    height: 25%;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+td{
+    text-align: center; 
+}
+
+th{
+    height: 80px;
+    text-align: center;
+    font-size: 25px;
+}
+
+.tbl2{
+    border-collapse: collapse;
+    width: 100%;
+}
+
+/* #p{
+    text-align: right;
+    margin-top: 5%;
+    margin-right: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+} */
+
+#file {
+    width: 100%;
+    height: 100px;
+}
+
+.input{
+    width: 100%;
+    direction: rtl;
+}
+
+.btnSave{
+    border: none;
+    padding: 10px;
+}
+
+span.danger{
+    color: red;
+}
+.label{
+    font-weight: bolder;
+    color: rgb(97, 97, 97);
+}
+#icon{
+    font-size: 2rem; 
+    color: rgb(68, 129, 243);
+}

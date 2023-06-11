@@ -1,0 +1,8 @@
+body{
+    background-image: url("waterImage.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    /* padding: 35vh; */
+    /* margin: 5vh; */
+}

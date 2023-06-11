@@ -1,0 +1,117 @@
+
+<p-toast key="myKey1" [showTransitionOptions]="'0ms'" ></p-toast> 
+
+<table class="tbl">
+    <tr>
+        <td >
+            <p-dropdown (onChange)="onChange()" [options]="organizations" appendTo="body" [(ngModel)]="d.organization" [style]="{'width':'100%', 'direction':'rtl'}" placeholder="~ בחר ~" ></p-dropdown>
+        </td>
+        <td class="label"><span class="danger">*</span> ארגון </td>
+        <td>
+            <input type="text" (change)="onChange()"  pInputText  [(ngModel)]="d.documentName" class="input" dir="rtl"/>
+        </td>
+        <td class="label"> <span class="danger">*</span> שם מסמך </td>
+    </tr>
+    <tr>
+        <td>
+            <p-dropdown (onChange)="onChange()" [options]="businessUnits" appendTo="body" [(ngModel)]="d.businessUnit" [style]="{'width':'100%', 'direction':'rtl'}" placeholder="~ בחר ~"></p-dropdown>
+        </td>
+        <td class="label"> <span class="danger">*</span> מוסד </td>
+        <td>
+            <input type="text" readonly="true" pInputText [(ngModel)] = "d.createBy" class="input" dir="rtl"/>
+        </td>
+        <td class="label"> יוצר המסמך </td>
+    </tr>
+    <tr>
+        <td>
+            <p-dropdown (onChange)="onChange()" [options]="departments" appendTo="body" [(ngModel)]="d.department" [style]="{'width':'100%', 'direction':'rtl'}" placeholder="~ בחר ~"></p-dropdown>
+        </td>
+        <td class="label"> <span class="danger">*</span> מחלקה </td>
+        <td>
+            <input type="date" readonly="true" [(ngModel)]=currentDate pInputText class="input" />
+        </td>
+        <td class="label"> תאריך ארכיב</td>
+    </tr>
+    <tr>
+        <th class="label" colspan="4"> תוקף והתראות</th>
+    </tr>
+    <tr>
+        <td  dir="rtl" colspan="4">
+            <!-- <p-calendar class="min-w-full" [(ngModel)]="d.effectiveDate" [minDate]="todayDate"></p-calendar>
+            תחילת תוקף:   
+            <p-calendar class="max-w-full" [(ngModel)]="d.effectiveDate" [minDate]="todayDate"></p-calendar>
+            עד  -->
+            <span class="label">תחילת תוקף  </span>
+            <input (change)="onChange1()" type="date"  class="label" [(ngModel)] ="d.effectiveDate"  pInputText />
+            <span class="label"> עד   </span>                                  
+            <input (change)="onChange2()" type="date" class="label" [(ngModel)] ="d.expirationDate" max="2099-12-30" pInputText />
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <input type="email" pInputText [(ngModel)] = "d.mailAddress" class="input"  >
+        </td>
+        <td class="label">
+            מייל לקבלת התראות
+        </td>
+        <td> 
+            <p id="p" class="label">הפעל התראה</p>
+            <p-inputSwitch [(ngModel)]="d.alertActive"></p-inputSwitch>
+            
+        </td>
+        <td>
+            <p id="p" class="label">ימים טרם תפוגה</p>       
+            <p-inputNumber id="inpNumber" [(ngModel)]="d.numDaysExp" [showButtons]="true" buttonLayout="horizontal" inputId="horizontal" spinnerMode="horizontal"
+            decrementButtonClass="p-button-secondary" incrementButtonClass="p-button-secondary" incrementButtonIcon="pi pi-plus" decrementButtonIcon="pi pi-minus"></p-inputNumber>
+            <!-- <p-inputNumber id="inpNumber" [(ngModel)]="d.numDaysExp" [style]="{'width':'22%'}" buttonLayout="horizontal" inputId="horizontal" spinnerMode="horizontal">
+            [showButtons]="true" decrementButtonClass="p-button-secondary" incrementButtonClass="p-button-secondary" incrementButtonIcon="pi pi-plus" decrementButtonIcon="pi pi-minus">
+            </p-inputNumber> -->
+        </td>
+    </tr>
+    <tr>
+        <th colspan="4"></th>
+    </tr>
+    <tr>
+        <td>
+            <p-dropdown (onChange)="onChange()" [options]="documentTypes" appendTo="body" [(ngModel)]="d.docType" [style]="{'width':'100%', 'direction':'rtl'}" placeholder="~ בחר ~"></p-dropdown>
+        </td>
+        <td class="label"> <span class="danger">*</span> סוג מסמך </td>
+        <td>
+            <a href={{d.docLink}} title={{d.docLink}}>{{d.docLink? d.docLink.substring(0, 50)+"...":""}}</a>
+            <!-- <input type="text" readonly="true" pInputText [(ngModel)]="d.docLink" class="input"/> -->
+        </td>
+        <td class="label">(אוטומטי) לינק למסמך </td>
+    </tr>
+    <tr>
+        <td></td>
+        <td colspan="2">
+            <table class="tbl2">
+                <tr class="label">
+                    <td> אסמכתא </td>
+                    <td> סוג אסמכתא</td>
+                </tr>
+                <tr>
+                    <td>
+                        <input type="text" pInputText [(ngModel)]="dr.ref" class="input" />
+                    </td>
+                    <td>
+                        <p-dropdown (onChange)="onChange()" [options]="refTypes" appendTo="body" [(ngModel)]="dr.refType" [style]="{'width':'100%', 'direction':'rtl'}" placeholder="~ בחר ~"></p-dropdown>
+                    </td>
+                </tr>
+                <tr></tr>
+                <tr></tr>
+            </table>
+        </td>
+        <td class="label">(אחת) <span class="danger">*</span> אסמכתאות</td>
+    </tr>
+    <tr *ngIf="uploadFile">
+        <td colspan="3">
+            <p-fileUpload #fubauto name="file[]" [auto]="true" (onSelect)="onUpload($event)" (onRemove)="clearIcon($event)"></p-fileUpload>            
+            <i class="pi pi-spin pi-spinner" id="icon" *ngIf="uploadAzure"></i>
+        </td>
+        <td class="label"> הוסף מסמך </td>
+    </tr>
+    <td colspan="3" class="btnSave">
+        <p-button id="addDocument" *ngIf="isDisabled" label="שמירת מסמך" (click) = "addDocument()" icon="pi pi-check" iconPos="right"></p-button>
+    </td>
+</table>

@@ -1,0 +1,654 @@
+M:\orchotPro\WebApi\bin\Debug\net6.0\appsettings.Development.json
+M:\orchotPro\WebApi\bin\Debug\net6.0\appsettings.json
+M:\orchotPro\WebApi\bin\Debug\net6.0\WebApi.exe
+M:\orchotPro\WebApi\bin\Debug\net6.0\WebApi.deps.json
+M:\orchotPro\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+M:\orchotPro\WebApi\bin\Debug\net6.0\WebApi.dll
+M:\orchotPro\WebApi\bin\Debug\net6.0\WebApi.pdb
+M:\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+M:\orchotPro\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\orchotPro\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\orchotPro\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\orchotPro\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+M:\orchotPro\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+M:\orchotPro\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+M:\orchotPro\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+M:\orchotPro\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+M:\orchotPro\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+M:\orchotPro\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+M:\orchotPro\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+M:\orchotPro\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.props
+M:\orchotPro\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+M:\orchotPro\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+M:\orchotPro\WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+M:\orchotPro\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+M:\orchotPro\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+M:\orchotPro\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+M:\orchotPro\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+M:\orchotPro\WebApi\obj\Debug\net6.0\WebApi.dll
+M:\orchotPro\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+M:\orchotPro\WebApi\obj\Debug\net6.0\WebApi.pdb
+M:\orchotPro\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+M:\orchotPro\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\WebApi.exe
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\WebApi.deps.json
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\WebApi.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\WebApi.pdb
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\WebApi.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\WebApi.pdb
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\BLL.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\DAL.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Entity.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\BLL.pdb
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\DAL.pdb
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Entity.pdb
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Users\1\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\WebApi.exe
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\WebApi.deps.json
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\WebApi.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\WebApi.pdb
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\BLL.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\DAL.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Entity.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\BLL.pdb
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\DAL.pdb
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Entity.pdb
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\WebApi.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\WebApi.pdb
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+C:\Users\User\Downloads\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\WebApi.exe
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\WebApi.deps.json
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\WebApi.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\WebApi.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\BLL.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\DAL.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Entity.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\BLL.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\DAL.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\bin\Debug\net6.0\Entity.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\WebApi.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\WebApi.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\‏‏תיקיה חדשה (5)\orchotPro\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\obj\Debug\net6.0\WebApi.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\obj\Debug\net6.0\WebApi.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\WebApi.exe
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\WebApi.deps.json
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\WebApi.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\WebApi.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\BLL.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\DAL.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\Entity.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\BLL.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\DAL.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\bin\Debug\net6.0\Entity.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\Desktop\orchot_server\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\WebApi.exe
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\WebApi.deps.json
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\WebApi.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\WebApi.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\BLL.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\DAL.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Entity.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\BLL.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\DAL.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Entity.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\WebApi.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\WebApi.pdb
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+C:\Users\WIN 10\Documents\תכנות\אורחות חינוך\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\appsettings.Development.json
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\appsettings.json
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\WebApi.exe
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\WebApi.deps.json
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\WebApi.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\WebApi.pdb
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Azure.Core.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Azure.Identity.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Azure.Storage.Common.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\System.IO.Hashing.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\System.Memory.Data.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\BLL.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\DAL.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Entity.dll
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\BLL.pdb
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\DAL.pdb
+D:\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Entity.pdb
+D:\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+D:\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+D:\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+D:\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+D:\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.props
+D:\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+D:\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+D:\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+D:\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+D:\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+D:\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+D:\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+D:\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\WebApi.dll
+D:\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+D:\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\WebApi.pdb
+D:\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+D:\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\ref\WebApi.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\WebApi.exe
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\WebApi.deps.json
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\WebApi.runtimeconfig.json
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\WebApi.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\WebApi.pdb
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Azure.Storage.Blobs.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Azure.Storage.Common.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\System.IO.Hashing.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\BLL.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\DAL.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Entity.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\BLL.pdb
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\DAL.pdb
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\bin\Debug\net6.0\Entity.pdb
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\WebApi.AssemblyInfo.cs
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.props
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.props
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.props
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\WebApi.csproj.CopyComplete
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\WebApi.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\refint\WebApi.dll
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\WebApi.pdb
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\WebApi.genruntimeconfig.cache
+C:\Users\1\Downloads\orchotProject (1)\orchotProject\orchot_server\WebApi\obj\Debug\net6.0\ref\WebApi.dll

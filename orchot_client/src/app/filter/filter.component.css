@@ -1,0 +1,13 @@
+tr td{
+    text-align: center;
+}
+.flexitems h4{
+    margin: 5px;
+}
+.flexitems p{
+    margin: 8px;
+}
+.btn{
+    font-size: smaller;
+    margin: 3px;
+}

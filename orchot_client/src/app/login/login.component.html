@@ -1,0 +1,44 @@
+<p-toast key="myKey1" [showTransitionOptions]="'0ms'" ></p-toast>
+<table class="outer">
+    <tr id="size">
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr id="size">
+        <td></td>
+        <td>
+           
+            <table class="inner">
+                <tr>
+                    <td colspan="2">
+                        <p-image src="../assets/images/פרח.png" alt="Image" id="img"></p-image>
+                    </td>
+                </tr>
+                <td *ngIf="!clickLogin" colspan="4" style="padding: 10px;">
+                    <p-button label="כניסה למערכת" (click)="ClickLogin()"></p-button>
+                </td>
+                <tr *ngIf="clickLogin">
+                    <td>
+                        <input type="text" pInputText id="UserName" value="" [(ngModel)]="userName" dir="rtl"/>
+                    </td>
+                    <td id="font"> שם משתמש </td>
+                </tr>
+                <tr *ngIf="clickLogin"> 
+                    <td>
+                        <input type="text" pInputText id="Password" value="" [(ngModel)]="password" dir="rtl"/>
+                    </td>
+                    <td id="font"> סיסמא </td>
+                </tr>
+                <tr colspan="1" *ngIf="clickLogin">
+                    <!-- <td colspan="1" style="padding-top: 10px;">
+                        <p-button label="ביטול" (click)="clearLogin()"></p-button>
+                    </td> -->
+                    <td colspan="1" style="padding-top: 10px;">
+                        <p-button label="אישור" (click)="showMessage()"></p-button>
+                    </td>    
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
